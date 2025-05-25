@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('7836243196:AAHgqDozruNhE8qI-tfpDi5Ik7E1a_piIso')
+bot = telebot.TeleBot('YOUR_TOKEN')
 
 easy_password_symbols = [
     '0', '1', '2', '3', '4', '5', '6', '7', '8', '9',
